@@ -7,3 +7,4 @@ Created on Thu Jul  6 17:20:05 2017
 """
 
 print("Hello World")
+print("Hello World * 2")
